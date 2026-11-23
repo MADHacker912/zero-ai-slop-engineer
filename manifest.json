@@ -1,0 +1,28 @@
+{
+  "name": "zero-ai-slop-engineer",
+  "version": "1.0.0",
+  "description": "Zero AI-Slop Engineering Constitution & Autonomous Multi-Disciplinary Agent Skill",
+  "author": "Saksham Gupta (MADHacker912)",
+  "license": "MIT",
+  "keywords": [
+    "ai-agent",
+    "anti-slop",
+    "clean-code",
+    "software-engineering",
+    "antigravity",
+    "gemini",
+    "claude",
+    "codex",
+    "quality-gate"
+  ],
+  "main": "SKILL.md",
+  "scripts": {
+    "audit": "python3 scripts/audit_anti_slop.py"
+  },
+  "compatibility": {
+    "antigravity": ">=1.0.0",
+    "gemini-cli": ">=0.1.0",
+    "claude-code": ">=0.1.0",
+    "cursor": ">=0.40.0"
+  }
+}
